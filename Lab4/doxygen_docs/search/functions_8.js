@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['set_5fdefault_5fthreads',['set_default_threads',['../syscall__thread_8c.html#a30c7ce18366b8100cfc5c940f168db64',1,'syscall_thread.c']]],
+  ['set_5fpending_5fstate',['set_pending_state',['../syscall__thread_8c.html#a1014517bf7fbe33ac025d841dc46ac74',1,'syscall_thread.c']]],
+  ['setup_5finit_5fstack_5fframe',['setup_init_stack_frame',['../syscall__thread_8c.html#a1a3417ddf7da62fbaea7ca31e952e231',1,'syscall_thread.c']]],
+  ['stack_5foverflows',['stack_overflows',['../syscall__thread_8c.html#a800d9a6c97c477768c23b28d9439dbef',1,'syscall_thread.c']]],
+  ['svc_5fc_5fhandler',['svc_c_handler',['../svc__handler_8c.html#a122ee86e40592aa9131d081329af6609',1,'svc_handler.c']]],
+  ['switch_5fmem_5fprotect',['switch_mem_protect',['../syscall__thread_8c.html#a696a6d5fd88f960f074e01c0aa8f09b6',1,'switch_mem_protect(tcb_t *next_thread, tcb_t *last_thread):&#160;syscall_thread.c'],['../syscall__thread_8c.html#abfe7fb0512c53514ac6dc96022034b91',1,'switch_mem_protect(tcb_t *next_thread):&#160;syscall_thread.c']]],
+  ['sys_5fexit',['sys_exit',['../syscall_8c.html#a1c0b6529c2b4ef268480a55f1314a400',1,'syscall.c']]],
+  ['sys_5fget_5fpriority',['sys_get_priority',['../syscall__thread_8c.html#a8b4f86fe10ac2c90ce8158872aac7ce2',1,'syscall_thread.c']]],
+  ['sys_5fget_5ftime',['sys_get_time',['../syscall__thread_8c.html#a341334c885696457b6f66bb8acda5b22',1,'syscall_thread.c']]],
+  ['sys_5fmutex_5finit',['sys_mutex_init',['../syscall__thread_8c.html#a12d3058e8c4464d614c9506562710e91',1,'syscall_thread.c']]],
+  ['sys_5fmutex_5flock',['sys_mutex_lock',['../syscall__thread_8c.html#a6a14ccbc1e43d61617b97ecd06cf65b9',1,'syscall_thread.c']]],
+  ['sys_5fmutex_5funlock',['sys_mutex_unlock',['../syscall__thread_8c.html#a55db4294dd5ed35ee5b2b1b1043ddbdd',1,'syscall_thread.c']]],
+  ['sys_5fread',['sys_read',['../syscall_8c.html#a544a39532e01328dfa5fcc8d74de1d75',1,'syscall.c']]],
+  ['sys_5fsbrk',['sys_sbrk',['../syscall_8c.html#a7f5ec70f8f9ae7913a4a99473bd347c0',1,'syscall.c']]],
+  ['sys_5fscheduler_5fstart',['sys_scheduler_start',['../syscall__thread_8c.html#a0726d2166701a485c555e6b7f7af3b60',1,'syscall_thread.c']]],
+  ['sys_5fthread_5fcreate',['sys_thread_create',['../syscall__thread_8c.html#ac54104218aaaba481bd42968a6045691',1,'syscall_thread.c']]],
+  ['sys_5fthread_5finit',['sys_thread_init',['../syscall__thread_8c.html#a7cf395a32723974af129b9bf11689e8a',1,'syscall_thread.c']]],
+  ['sys_5fthread_5fkill',['sys_thread_kill',['../syscall__thread_8c.html#a601e5d8e922ccdec535527e8d8724d78',1,'syscall_thread.c']]],
+  ['sys_5fthread_5ftime',['sys_thread_time',['../syscall__thread_8c.html#aa8933e910725546aa9e052369db9cf81',1,'syscall_thread.c']]],
+  ['sys_5fwait_5funtil_5fnext_5fperiod',['sys_wait_until_next_period',['../syscall__thread_8c.html#a2a3a3fb472158a93e59df836b9935b54',1,'syscall_thread.c']]],
+  ['sys_5fwrite',['sys_write',['../syscall_8c.html#ab2918eb7f2ad33cf38feadc70b3f0094',1,'syscall.c']]],
+  ['systick_5fc_5fhandler',['systick_c_handler',['../syscall__thread_8c.html#abc96a6564aa346ba124293a6604a0427',1,'syscall_thread.c']]]
+];

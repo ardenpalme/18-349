@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['main_5fthread_5fidx',['MAIN_THREAD_IDX',['../syscall__thread_8c.html#a371aab84fd38885b868c73536fb52f53',1,'syscall_thread.c']]],
+  ['max_5fbuf',['MAX_BUF',['../kernel_8c.html#a2491303d0fe260aaba8f46717cda66cc',1,'MAX_BUF():&#160;kernel.c'],['../uart_8c.html#a2491303d0fe260aaba8f46717cda66cc',1,'MAX_BUF():&#160;uart.c']]],
+  ['max_5fcount',['MAX_COUNT',['../uart_8c.html#ae14eaaed1fe7cdf491da54a714c426b3',1,'uart.c']]],
+  ['max_5fmutexes',['max_mutexes',['../structgcb__t.html#aabb947dd4c04253e0107e5ec6719c1b3',1,'gcb_t']]],
+  ['max_5fthreads',['max_threads',['../structgcb__t.html#ad3290b97ec119025d073acc1b1a856d3',1,'gcb_t']]],
+  ['mem_5ffault',['mem_fault',['../syscall__thread_8c.html#a7979aa6eb5eea68979c8e94756419795',1,'syscall_thread.c']]],
+  ['memfaultact',['MEMFAULTACT',['../mpu_8c.html#a2f1b932e993d4ba56223e5d6b3298e52',1,'mpu.c']]],
+  ['memfaultpended',['MEMFAULTPENDED',['../mpu_8c.html#ab86f25bf0a0329e2ff2b413e9b7d1092',1,'mpu.c']]],
+  ['mm_5fc_5fhandler',['mm_c_handler',['../mpu_8c.html#a91bea6c5bee9301515785e2d8a754b82',1,'mpu.c']]],
+  ['mm_5fdisable',['mm_disable',['../mpu_8c.html#afc4658c76b8277709e6257f74ebdf7d1',1,'mpu.c']]],
+  ['mm_5fenable',['mm_enable',['../mpu_8c.html#a96765ac6e7a9d4f7dfb6a808c575e585',1,'mpu.c']]],
+  ['mm_5flog2ceil_5fsize',['mm_log2ceil_size',['../mpu_8c.html#aef45fdec219c3ac6237f90b805ea6bff',1,'mpu.c']]],
+  ['mm_5fregion_5fdisable',['mm_region_disable',['../mpu_8c.html#af59a5684ba88f773a08878c311160bef',1,'mpu.c']]],
+  ['mm_5fregion_5fenable',['mm_region_enable',['../mpu_8c.html#aa911f88ae5abc2cf28a3ff0c2de2e395',1,'mpu.c']]],
+  ['mmarvalid',['MMARVALID',['../mpu_8c.html#a49a795c37df53d736a30d36ac8a5c8ca',1,'mpu.c']]],
+  ['mmfar',['MMFAR',['../structsystem__control__block__t.html#a39cb9e1a18f318132b055b4f3ad996df',1,'system_control_block_t']]],
+  ['mpu_2ec',['mpu.c',['../mpu_8c.html',1,'']]],
+  ['mpu_5fbase',['MPU_BASE',['../mpu_8c.html#aa0805ccd2bc4e42d63adb0618d2af571',1,'mpu.c']]],
+  ['mpu_5ft',['mpu_t',['../structmpu__t.html',1,'']]],
+  ['msp',['msp',['../structtcb__t.html#a3cf80f4ee7e74f8dbea323a9a23dcb25',1,'tcb_t']]],
+  ['mstkerr',['MSTKERR',['../mpu_8c.html#a9a934466ca47ca6102390fef1078cf85',1,'mpu.c']]],
+  ['munstkerr',['MUNSTKERR',['../mpu_8c.html#a3b380f684e8a18a6eba0f32a3e37ad3d',1,'mpu.c']]],
+  ['mutexes',['mutexes',['../structgcb__t.html#add58789a4306ddec91681755fdaf26cd',1,'gcb_t']]]
+];
