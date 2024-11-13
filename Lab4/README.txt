@@ -18,7 +18,7 @@ Neville Chima :
   IPCP
   User Interface Thread syscalls
   
-Andrew Diakhite Palme : 
+Arden Diakhate-Palme : 
   Assembly stubs
   Thread initializations
   Data structure definitions
